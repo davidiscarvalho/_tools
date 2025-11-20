@@ -190,7 +190,4 @@ You can expand this repository with:
 * Architecture guidelines
 * Persona templates
 * UI design system documents
-* Database design heuristics
 
-✅ A quickstart “How to use OpenSpec on day 1”
-Just tell me.
